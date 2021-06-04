@@ -1,0 +1,58 @@
+.navbar{
+  border-bottom:1px solid rgb(167, 165, 165);
+  box-shadow: black 1px 1px 5px;
+}
+.container{
+  margin-top:70px;
+}
+
+.dog-img{
+  height:400px;
+  padding:15px 0px;
+}
+
+.card{
+  background-color: rgb(55, 56, 56);
+}
+
+.card-body{
+  color:floralwhite;
+}
+
+.logo{
+  height:2.5em;
+  width:4em;
+}
+
+.info{
+  margin-top:25px;
+  box-shadow: 5px 5px 5px rgb(7, 7, 7);
+  border:solid 2px rgb(245, 182, 9);
+  background-image:linear-gradient(yellow,rgb(245, 182, 9)) ;
+}
+
+.info>div>.row{
+  border:solid 2px rgb(245, 182, 9);
+  border-top:0px;
+  border-radius:15px;
+  padding:15px;
+  background-color: rgb(55, 56, 56);
+}
+
+.invisible{
+  display:none;
+}
+
+.fab{
+  color:floralwhite;
+  background-color:rgb(27, 92, 212);
+  font-size:25px;
+  padding:10px;
+  border-radius:30px;
+  border:solid 2px rgb(27, 92, 212);
+  margin:2px;
+}
+.fab:hover{
+  color:rgb(27, 92, 212);
+  background-color:floralwhite;
+}
